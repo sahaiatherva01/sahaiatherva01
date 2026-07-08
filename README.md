@@ -52,7 +52,7 @@ const atherva = {
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,pytorch,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,pytorch,tensorflow,git,github,vscode&theme=dark" />
 </div>
 
 <br/>
@@ -84,7 +84,7 @@ const atherva = {
 ## Featured Projects
 
 <details open>
-<summary><b> DriveSafe-AI</b> — <i>AI Driver Monitoring System, June 2026 – Present</i></summary>
+<summary><b>🚗 DriveSafe-AI</b> — <i>AI Driver Monitoring System, June 2026 – Present</i></summary>
 <br/>
 
 `Python` `Flask` `OpenCV` `MediaPipe` `TensorFlow` `Gemini API`
@@ -96,7 +96,7 @@ const atherva = {
 </details>
 
 <details>
-<summary><b> HomeGuardAI</b> — <i>AI-Powered Smart Surveillance System, May 2026 – Present</i></summary>
+<summary><b>🏠 HomeGuardAI</b> — <i>AI-Powered Smart Surveillance System, May 2026 – Present</i></summary>
 <br/>
 
 `Python` `Flask` `OpenCV` `MediaPipe` `Gemini API`
@@ -108,7 +108,7 @@ const atherva = {
 </details>
 
 <details>
-<summary><b> Mudra Recognition Model</b> — <i>Research Paper (Manuscript in Preparation), July 2025 – Present</i></summary>
+<summary><b>🤟 Mudra Recognition Model</b> — <i>Research Paper (Manuscript in Preparation), July 2025 – Present</i></summary>
 <br/>
 
 `Python` `OpenCV` `MediaPipe` `NumPy`
@@ -120,7 +120,7 @@ const atherva = {
 </details>
 
 <details>
-<summary><b> Humanoid Robot Clone Tracker</b> — <i>Real-Time Pose Estimation, Nov 2025 – Feb 2026</i></summary>
+<summary><b>🤖 Humanoid Robot Clone Tracker</b> — <i>Real-Time Pose Estimation, Nov 2025 – Feb 2026</i></summary>
 <br/>
 
 `Python` `OpenCV` `MediaPipe` `NumPy` `Matplotlib`
