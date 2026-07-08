@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atherva-sahai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahaiatherva2006@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sahaiatherva01&label=Profile+Views&color=30363d&style=flat-square)](https://github.com/sahaiatherva01)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-238636?style=flat-square)
 
 </div>
 
@@ -16,15 +17,45 @@
 
 Computer Science undergraduate at VIT Bhopal building full-stack computer vision systems (OpenCV, MediaPipe, PyTorch) and integrating agentic AI, RAG, and LLM tooling (Google Gemini API) into applied pipelines. Currently seeking **AI/ML Engineering**, **Computer Vision Research**, or **Software Development Engineer** internship opportunities.
 
-- 🔭 Building **DriveSafe-AI** — real-time driver drowsiness detection (EAR/MAR/blink/yawn analysis) with Gemini-powered safety recommendations
-- 🔭 Building **HomeGuardAI** — multi-person pose tracking and activity monitoring with Gemini-generated security insights
-- 📝 Co-authoring a research manuscript on real-time Sattriya mudra recognition (in preparation)
-- 🌱 Exploring agentic AI, multi-agent systems, and Retrieval-Augmented Generation
-- 🎓 B.Tech CSE, VIT Bhopal (CGPA: 8.01/10.0)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Currently**
+```yaml
+role:        CSE Undergrad @ VIT Bhopal
+building:    DriveSafe-AI, HomeGuardAI
+researching: Real-time Sattriya mudra recognition
+exploring:   Agentic AI, RAG, Gemini API integration
+leading:     Bit By Bit Club (President)
+```
+
+</td>
+<td valign="top" width="50%">
+
+**Snapshot**
+```js
+const atherva = {
+  location:  "Bhopal, India",
+  education: "B.Tech CSE, VIT Bhopal",
+  cgpa:      "8.01 / 10.0",
+  focus:     ["Computer Vision", "GenAI", "Full-Stack"],
+};
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,pytorch,tensorflow,opencv,git,github,vscode&theme=dark" />
+</div>
+
+<br/>
 
 | Category | Stack |
 |---|---|
@@ -39,32 +70,93 @@ Computer Science undergraduate at VIT Bhopal building full-stack computer vision
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[DriveSafe-AI](https://github.com/sahaiatherva01/DriveSafe-AI)** | Real-time driver monitoring system detecting drowsiness via EAR/MAR, blink, and yawn analysis with temporal smoothing; integrates the Gemini API for personalized driving safety recommendations | Python, Flask, OpenCV, MediaPipe, TensorFlow, Gemini API |
-| **[HomeGuardAI](https://github.com/sahaiatherva01/HomeGuardAI)** | Real-time home surveillance system detecting suspicious activity (prolonged presence, abnormal posture, face concealment) via a Flask dashboard with Gemini-generated security insights | Python, Flask, OpenCV, MediaPipe, Gemini API |
-| **[Mudra-Recognition-Model](https://github.com/sahaiatherva01/Mudra-Recognition-Model)** | Real-time hand gesture recognition system for Sattriya folk dance using 21-point hand landmark extraction; research manuscript in preparation | Python, OpenCV, MediaPipe, NumPy |
-| **[Robot-Clone-Tracker-v2](https://github.com/sahaiatherva01/Robot-Clone-Tracker-v2)** | Real-time human pose estimation tracking 33 body landmarks for low-latency interactive visualization | Python, OpenCV, MediaPipe, Matplotlib |
+<details open>
+<summary><b>🚗 DriveSafe-AI</b> — <i>AI Driver Monitoring System, June 2026 – Present</i></summary>
+<br/>
 
----
+`Python` `Flask` `OpenCV` `MediaPipe` `TensorFlow` `Gemini API`
 
-## Research
+- Real-time driver monitoring detecting drowsiness through eye closure, yawning, and head movement
+- Fatigue detection using Eye Aspect Ratio (EAR), Mouth Aspect Ratio (MAR), blink analysis, and temporal smoothing
+- Integrated the Gemini API to generate personalized driving safety recommendations based on detected behavior
 
-**Mudra Recognition Model** — *Manuscript in Preparation, July 2025 – Present*
-Real-time hand gesture recognition system for Sattriya folk dance. Extracted 21-point hand landmarks for geometric feature engineering and gesture classification; improved recognition performance through image preprocessing and evaluation on a custom dataset.
+</details>
+
+<details>
+<summary><b>🏠 HomeGuardAI</b> — <i>AI-Powered Smart Surveillance System, May 2026 – Present</i></summary>
+<br/>
+
+`Python` `Flask` `OpenCV` `MediaPipe` `Gemini API`
+
+- Real-time home surveillance detecting people and monitoring activity patterns
+- Suspicious activity detection for prolonged presence, abnormal posture, and face concealment
+- Flask dashboard displaying live feeds, activity logs, occupancy stats, and Gemini-generated security insights
+
+</details>
+
+<details>
+<summary><b>🤟 Mudra Recognition Model</b> — <i>Research Paper (Manuscript in Preparation), July 2025 – Present</i></summary>
+<br/>
+
+`Python` `OpenCV` `MediaPipe` `NumPy`
+
+- Real-time hand gesture recognition system for Sattriya folk dance
+- Extracted 21 hand landmarks and engineered geometric features for mudra classification
+- Improved recognition performance through preprocessing and evaluation on a custom dataset
+
+</details>
+
+<details>
+<summary><b>🤖 Humanoid Robot Clone Tracker</b> — <i>Real-Time Pose Estimation, Nov 2025 – Feb 2026</i></summary>
+<br/>
+
+`Python` `OpenCV` `MediaPipe` `NumPy` `Matplotlib`
+
+- Real-time human pose tracking detecting and visualizing 33 body landmarks
+- Low-latency processing of live webcam input for interactive applications
+- Skeletal visualization and analysis using NumPy and Matplotlib
+
+</details>
 
 ---
 
 ## Leadership
 
-| Role | Organization | Duration |
-|---|---|---|
-| President | Bit By Bit Club, VIT Bhopal | March 2026 – Present |
-| Co-Lead, Event Management | UX Club, VIT Bhopal | July 2025 – Feb 2026 |
+<table>
+<tr>
+<th align="left">Role</th>
+<th align="left">Organization</th>
+<th align="left">Details</th>
+</tr>
+<tr>
+<td valign="top"><b>President</b></td>
+<td valign="top">Bit By Bit Club, VIT Bhopal<br/><sub>March 2026 – Present</sub></td>
+<td valign="top">Lead club activities, organize technical events, and coordinate workshops and coding contests</td>
+</tr>
+<tr>
+<td valign="top"><b>Co-Lead</b><br/><sub>Event Management</sub></td>
+<td valign="top">UX Club, VIT Bhopal<br/><sub>July 2025 – Feb 2026</sub></td>
+<td valign="top">Coordinated technical events and managed event operations with the organizing team</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## Beyond the Code
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Active-2b0a3d?style=for-the-badge&logo=leetcode&logoColor=ffa116)
+![HackerRank](https://img.shields.io/badge/HackerRank-Active-2b0a3d?style=for-the-badge&logo=hackerrank&logoColor=2ec866)
+![Hackathons](https://img.shields.io/badge/Hackathons-Multiple%20Participated-2b0a3d?style=for-the-badge&logo=devpost&logoColor=white)
+
+**Certifications:** Programming in Java · Python Essentials · Fundamentals of AI and ML
+
+</div>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
@@ -76,8 +168,22 @@ Real-time hand gesture recognition system for Sattriya folk dance. Extracted 21-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaiatherva01&theme=react-dark&hide_border=true" width="49%"/>
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
+</div>
+
 ---
 
 <div align="center">
-<sub>Open to internship opportunities in AI/ML Engineering, Computer Vision Research, and Software Development.</sub>
+
+### Let's Connect
+
+<a href="https://linkedin.com/in/atherva-sahai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sahaiatherva2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sahaiatherva01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:1a2332,100:0d1117&height=90&section=footer)
