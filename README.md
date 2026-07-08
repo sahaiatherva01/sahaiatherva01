@@ -172,23 +172,22 @@ const atherva = {
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaiatherva01&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=sahaiatherva01&count_private=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sahaiatherva01&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaiatherva01&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="97%"/>
+<img src="https://ghchart.rshah.org/58a6ff/sahaiatherva01" width="97%"/>
 </div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
 </div>
 
-> **Note:** these widgets pull live from your GitHub activity. `count_private=true` and `include_all_commits=true` are set so contributions and commits to private repos are reflected too — remove those two params if you'd rather only show public activity.
 
 ---
 
