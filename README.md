@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a2332&height=180&section=header&text=Atherva%20Sahai&fontSize=44&fontColor=58A6FF&fontAlignY=40&desc=Aspiring%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Applied%20AI&descSize=15&descColor=8b949e&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a2332&height=180&section=header&text=Atherva%20Sahai&fontSize=44&fontColor=58A6FF&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Research%20%C2%B7%20Agents&descSize=16&descColor=8b949e&descAlignY=62)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer+%40+VIT+Bhopal;Building+real-time+Computer+Vision+pipelines;Training%2C+deploying+%26+integrating+ML+models;Open+to+ML+Engineering+%26+CV+Research+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer+%40+VIT+Bhopal;Applied+Machine+Learning+%C2%B7+Model+Training+%26+Deployment;Research%3A+Real-time+Gesture+Recognition+(Manuscript+in+Prep);Agents%3A+Gemini-powered+Agentic+AI+%26+RAG+Systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atherva-sahai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahaiatherva2006@gmail.com)
@@ -15,7 +15,7 @@
 
 ## About
 
-Computer Science undergraduate at VIT Bhopal building real-time computer vision pipelines (OpenCV, MediaPipe, PyTorch, TensorFlow) and integrating them with GenAI tooling (Google Gemini API, RAG). Focused on developing the model-training, evaluation, and deployment skills of an ML Engineer alongside applied CV systems work. Currently seeking **ML Engineering**, **Computer Vision Research**, or **AI Engineering** internship opportunities.
+Computer Science undergraduate at VIT Bhopal building applied AI/ML systems end-to-end — from real-time perception pipelines (OpenCV, MediaPipe, PyTorch, TensorFlow) to GenAI integration (Google Gemini API, RAG, agentic architectures). Focused on developing core ML engineering skills — model training, evaluation, and deployment — across multiple domains rather than a single specialization. Currently seeking **AI/ML Engineering** internship opportunities.
 
 <table>
 <tr>
@@ -24,9 +24,9 @@ Computer Science undergraduate at VIT Bhopal building real-time computer vision 
 **Currently**
 ```yaml
 role:        CSE Undergrad @ VIT Bhopal
-building:    DriveSafe-AI, HomeGuardAI
-researching: Real-time Sattriya mudra recognition
-exploring:   Agentic AI, RAG, Gemini API integration
+building:    Applied AI systems (CV + GenAI)
+researching: Real-time gesture recognition (CV)
+exploring:   Agentic AI, RAG, multi-agent systems
 leading:     Bit By Bit Club (President)
 ```
 
@@ -52,7 +52,20 @@ const atherva = {
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,pytorch,tensorflow,opencv,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,pytorch,tensorflow,git,github,vscode&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 </div>
 
 <br/>
@@ -159,18 +172,23 @@ const atherva = {
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaiatherva01&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=sahaiatherva01&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaiatherva01&theme=react-dark&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sahaiatherva01&count_private=true&theme=tokyonight&hide_border=true" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaiatherva01&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="97%"/>
 </div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
 </div>
+
+> **Note:** these widgets pull live from your GitHub activity. `count_private=true` and `include_all_commits=true` are set so contributions and commits to private repos are reflected too — remove those two params if you'd rather only show public activity.
 
 ---
 
