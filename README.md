@@ -188,6 +188,7 @@ const atherva = {
 <img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
 </div>
 
+> **If any card above shows a broken image:** these are free public widgets shared across millions of GitHub profiles, so they occasionally hit rate limits or go down temporarily. Try a hard refresh after a few minutes first. If it stays broken long-term, the permanent fix is self-hosting your own copy — each project (github-readme-stats, github-readme-streak-stats) has a "Deploy to Vercel" button on its repo that spins up a private instance under your own account with no shared-quota issue.
 
 ---
 
