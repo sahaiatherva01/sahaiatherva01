@@ -172,23 +172,29 @@ const atherva = {
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaiatherva01&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=sahaiatherva01&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
+**Overview**
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaiatherva01&theme=tokyonight" width="42%"/>
+
+**Language Distribution**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaiatherva01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahaiatherva01&theme=tokyonight" width="42%"/>
+
+**Streak & Contribution Activity**
+
+<img src="https://streak-stats.demolab.com/?user=sahaiatherva01&theme=tokyonight&hide_border=true" width="97%"/>
 <img src="https://ghchart.rshah.org/58a6ff/sahaiatherva01" width="97%"/>
+
+**Achievements**
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="97%"/>
+
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
-</div>
-
-> **If any card above shows a broken image:** these are free public widgets shared across millions of GitHub profiles, so they occasionally hit rate limits or go down temporarily. Try a hard refresh after a few minutes first. If it stays broken long-term, the permanent fix is self-hosting your own copy — each project (github-readme-stats, github-readme-streak-stats) has a "Deploy to Vercel" button on its repo that spins up a private instance under your own account with no shared-quota issue.
+> **If any card above shows a broken image:** these are free public widgets shared across millions of GitHub profiles, so they occasionally hit rate limits or go down temporarily. Try a hard refresh after a few minutes first. If it stays broken long-term, the permanent fix is self-hosting your own copy — each project (github-readme-stats, github-readme-streak-stats, github-profile-summary-cards) has a "Deploy to Vercel" button on its repo that spins up a private instance under your own account with no shared-quota issue.
 
 ---
 
