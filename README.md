@@ -168,51 +168,24 @@ const atherva = {
 </div>
 
 ---
----
 
-# 📊 GitHub Analytics
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaiatherva01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahaiatherva01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaiatherva01&theme=tokyonight" alt="Profile Summary" width="95%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahaiatherva01&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahaiatherva01&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahaiatherva01&theme=tokyonight" alt="Stats" width="32%"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaiatherva01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahaiatherva01&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="48%" src="https://streak-stats.demolab.com?user=sahaiatherva01&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaiatherva01&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahaiatherva01&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahaiatherva01&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahaiatherva01&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahaiatherva01&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=sahaiatherva01&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=2&column=3"/>
-
-</div>
 ---
 
 <div align="center">
@@ -228,3 +201,5 @@ const atherva = {
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:1a2332,100:0d1117&height=90&section=footer)
+
+Update the readme file with new stats
