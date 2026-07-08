@@ -169,32 +169,26 @@ const atherva = {
 
 ---
 
-## GitHub Analytics
 
-<div align="center">
+## GitHub Stats
 
-**Overview**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisand2815&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahaiatherva01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaiatherva01&theme=tokyonight" width="42%"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
+</p>
 
-**Language Distribution**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisand2815&theme=tokyonight" alt="Profile Summary" width="95%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaiatherva01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahaiatherva01&theme=tokyonight" width="42%"/>
-
-**Streak & Contribution Activity**
-
-<img src="https://streak-stats.demolab.com/?user=sahaiatherva01&theme=tokyonight&hide_border=true" width="97%"/>
-<img src="https://ghchart.rshah.org/58a6ff/sahaiatherva01" width="97%"/>
-
-**Achievements**
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="97%"/>
-
-</div>
-
-> **If any card above shows a broken image:** these are free public widgets shared across millions of GitHub profiles, so they occasionally hit rate limits or go down temporarily. Try a hard refresh after a few minutes first. If it stays broken long-term, the permanent fix is self-hosting your own copy — each project (github-readme-stats, github-readme-streak-stats, github-profile-summary-cards) has a "Deploy to Vercel" button on its repo that spins up a private instance under your own account with no shared-quota issue.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisand2815&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisand2815&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisand2815&theme=tokyonight" alt="Stats" width="32%"/>
+</p>
 
 ---
 
