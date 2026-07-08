@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a2332&height=180&section=header&text=Atherva%20Sahai&fontSize=44&fontColor=58A6FF&fontAlignY=40&desc=Computer%20Vision%20%7C%20Full-Stack%20AI%20%7C%20Applied%20ML&descSize=15&descColor=8b949e&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a2332&height=180&section=header&text=Atherva%20Sahai&fontSize=44&fontColor=58A6FF&fontAlignY=40&desc=Aspiring%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Applied%20AI&descSize=15&descColor=8b949e&descAlignY=62)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=CS+Undergraduate+%40+VIT+Bhopal;Building+real-time+Computer+Vision+systems;Integrating+Gemini+API+%26+RAG+into+CV+pipelines;Open+to+AI%2FML%2C+CV+Research+%26+SDE+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer+%40+VIT+Bhopal;Building+real-time+Computer+Vision+pipelines;Training%2C+deploying+%26+integrating+ML+models;Open+to+ML+Engineering+%26+CV+Research+Internships)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atherva-sahai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahaiatherva2006@gmail.com)
@@ -15,7 +15,7 @@
 
 ## About
 
-Computer Science undergraduate at VIT Bhopal building full-stack computer vision systems (OpenCV, MediaPipe, PyTorch) and integrating agentic AI, RAG, and LLM tooling (Google Gemini API) into applied pipelines. Currently seeking **AI/ML Engineering**, **Computer Vision Research**, or **Software Development Engineer** internship opportunities.
+Computer Science undergraduate at VIT Bhopal building real-time computer vision pipelines (OpenCV, MediaPipe, PyTorch, TensorFlow) and integrating them with GenAI tooling (Google Gemini API, RAG). Focused on developing the model-training, evaluation, and deployment skills of an ML Engineer alongside applied CV systems work. Currently seeking **ML Engineering**, **Computer Vision Research**, or **AI Engineering** internship opportunities.
 
 <table>
 <tr>
