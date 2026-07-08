@@ -188,8 +188,6 @@ const atherva = {
 <img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
 </div>
 
-> **Note:** these widgets pull live from your GitHub activity. `count_private=true` and `include_all_commits=true` are set so contributions and commits to private repos are reflected too — remove those two params if you'd rather only show public activity.
-
 ---
 
 <div align="center">
