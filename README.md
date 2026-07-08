@@ -169,26 +169,42 @@ const atherva = {
 
 ---
 
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisand2815&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaiatherva01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahaiatherva01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaiatherva01&theme=tokyonight" alt="Profile Summary" width="95%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahaiatherva01&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahaiatherva01&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahaiatherva01&theme=tokyonight" alt="Stats" width="32%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
-</p>
+---
+
+**Real contribution history** — the snake animation below is generated directly from your own commit data via GitHub Actions (see `snake.yml`), so it stays accurate even if any card above is temporarily rate-limited:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisand2815&theme=tokyonight" alt="Profile Summary" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahaiatherva01/sahaiatherva01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahaiatherva01/sahaiatherva01/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sahaiatherva01/sahaiatherva01/output/github-contribution-grid-snake.svg" width="97%">
+</picture>
 </p>
 
+**Achievements**
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisand2815&theme=tokyonight" alt="Repos Per Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisand2815&theme=tokyonight" alt="Most Commit Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisand2815&theme=tokyonight" alt="Stats" width="32%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="97%"/>
 </p>
+
+> **If any card above shows a broken image:** these are free public widgets shared across millions of GitHub profiles and occasionally hit rate limits. Hard refresh after a few minutes. If persistent, self-host your own copy via each project's "Deploy to Vercel" button for a permanent, no-shared-quota fix.
 
 ---
 
