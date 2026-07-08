@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a2332&height=180&section=header&text=Atherva%20Sahai&fontSize=44&fontColor=58A6FF&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Research%20%C2%B7%20Agents&descSize=16&descColor=8b949e&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a2332&height=180&section=header&text=Atherva%20Sahai&fontSize=44&fontColor=58A6FF&fontAlignY=40&desc=AI%2FML%20Engineer%20%C2%B7%20Applied%20Research&descSize=16&descColor=8b949e&descAlignY=62)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer+%40+VIT+Bhopal;Applied+Machine+Learning+%C2%B7+Model+Training+%26+Deployment;Research%3A+Real-time+Gesture+Recognition+(Manuscript+in+Prep);Agents%3A+Gemini-powered+Agentic+AI+%26+RAG+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=CS+Undergraduate+%40+VIT+Bhopal;Building+%26+Researching+AI%2FML+Systems;Model+Training+%C2%B7+Deployment+%C2%B7+Applied+Research;Open+to+AI%2FML+Engineering+Internships)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atherva-sahai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahaiatherva2006@gmail.com)
