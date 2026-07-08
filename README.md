@@ -15,7 +15,7 @@
 
 ## About
 
-Computer Science undergraduate at VIT Bhopal building applied AI/ML systems end-to-end — from real-time perception pipelines (OpenCV, MediaPipe, PyTorch, TensorFlow) to GenAI integration (Google Gemini API, RAG, agentic architectures). Focused on developing core ML engineering skills — model training, evaluation, and deployment — across multiple domains rather than a single specialization. Currently seeking **AI/ML Engineering** internship opportunities.
+Computer Science undergraduate at VIT Bhopal building applied AI/ML systems end-to-end — from real-time perception pipelines (OpenCV, MediaPipe, PyTorch) to GenAI integration (Google Gemini API, RAG, agentic architectures). Focused on developing core ML engineering skills — model training, evaluation. Currently seeking **AI/ML Engineering and Research** internship opportunities.
 
 <table>
 <tr>
@@ -24,8 +24,8 @@ Computer Science undergraduate at VIT Bhopal building applied AI/ML systems end-
 **Currently**
 ```yaml
 role:        CSE Undergrad @ VIT Bhopal
-building:    Applied AI systems (CV + GenAI)
-researching: Real-time gesture recognition (CV)
+building:    Applied AI/ML systems
+researching: Machine Learning Systems
 exploring:   Agentic AI, RAG, multi-agent systems
 leading:     Bit By Bit Club (President)
 ```
@@ -39,7 +39,7 @@ const atherva = {
   location:  "Bhopal, India",
   education: "B.Tech CSE, VIT Bhopal",
   cgpa:      "8.01 / 10.0",
-  focus:     ["Computer Vision", "GenAI", "Full-Stack"],
+  focus:     ["Computer Vision", "Machine Learning", "Full-Stack"],
 };
 ```
 
@@ -52,7 +52,7 @@ const atherva = {
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,pytorch,tensorflow,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,pytorch,github,vscode&theme=dark" />
 </div>
 
 <br/>
@@ -84,7 +84,7 @@ const atherva = {
 ## Featured Projects
 
 <details open>
-<summary><b>🚗 DriveSafe-AI</b> — <i>AI Driver Monitoring System, June 2026 – Present</i></summary>
+<summary><b>DriveSafe-AI</b> — <i>AI Driver Monitoring System, June 2026 – Present</i></summary>
 <br/>
 
 `Python` `Flask` `OpenCV` `MediaPipe` `TensorFlow` `Gemini API`
@@ -96,7 +96,7 @@ const atherva = {
 </details>
 
 <details>
-<summary><b>🏠 HomeGuardAI</b> — <i>AI-Powered Smart Surveillance System, May 2026 – Present</i></summary>
+<summary><b>HomeGuardAI</b> — <i>AI-Powered Smart Surveillance System, May 2026 – Present</i></summary>
 <br/>
 
 `Python` `Flask` `OpenCV` `MediaPipe` `Gemini API`
@@ -108,7 +108,7 @@ const atherva = {
 </details>
 
 <details>
-<summary><b>🤟 Mudra Recognition Model</b> — <i>Research Paper (Manuscript in Preparation), July 2025 – Present</i></summary>
+<summary><b>Mudra Recognition Model</b> — <i>Research Paper (Manuscript in Preparation), July 2025 – Present</i></summary>
 <br/>
 
 `Python` `OpenCV` `MediaPipe` `NumPy`
@@ -120,7 +120,7 @@ const atherva = {
 </details>
 
 <details>
-<summary><b>🤖 Humanoid Robot Clone Tracker</b> — <i>Real-Time Pose Estimation, Nov 2025 – Feb 2026</i></summary>
+<summary><b>Humanoid Robot Clone Tracker</b> — <i>Real-Time Pose Estimation, Nov 2025 – Feb 2026</i></summary>
 <br/>
 
 `Python` `OpenCV` `MediaPipe` `NumPy` `Matplotlib`
@@ -185,26 +185,6 @@ const atherva = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahaiatherva01&theme=tokyonight" alt="Most Commit Language" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahaiatherva01&theme=tokyonight" alt="Stats" width="32%"/>
 </p>
-
----
-
-**Real contribution history** — the snake animation below is generated directly from your own commit data via GitHub Actions (see `snake.yml`), so it stays accurate even if any card above is temporarily rate-limited:
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahaiatherva01/sahaiatherva01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahaiatherva01/sahaiatherva01/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sahaiatherva01/sahaiatherva01/output/github-contribution-grid-snake.svg" width="97%">
-</picture>
-</p>
-
-**Achievements**
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahaiatherva01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="97%"/>
-</p>
-
-> **If any card above shows a broken image:** these are free public widgets shared across millions of GitHub profiles and occasionally hit rate limits. Hard refresh after a few minutes. If persistent, self-host your own copy via each project's "Deploy to Vercel" button for a permanent, no-shared-quota fix.
 
 ---
 
