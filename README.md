@@ -15,7 +15,7 @@
 
 ## About
 
-Computer Science undergraduate at VIT Bhopal building applied AI/ML systems end-to-end — from real-time perception pipelines (OpenCV, MediaPipe, PyTorch, TensorFlow) to GenAI integration (Google Gemini API, RAG, agentic architectures). Focused on developing core ML engineering skills — model training, evaluation, and deployment — across multiple domains rather than a single specialization. Currently seeking **AI/ML Engineering** internship opportunities.
+Computer Science undergraduate at VIT Bhopal building applied AI/ML systems end-to-end — from real-time perception pipelines (OpenCV, MediaPipe, PyTorch) to GenAI integration (Google Gemini API, RAG, agentic architectures). Focused on developing core ML engineering skills — model training, evaluation. Currently seeking **AI/ML Engineering or Research** internship opportunities.
 
 <table>
 <tr>
