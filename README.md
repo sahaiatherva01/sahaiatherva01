@@ -39,7 +39,7 @@ const atherva = {
   location:  "Bhopal, India",
   education: "B.Tech CSE, VIT Bhopal",
   cgpa:      "8.01 / 10.0",
-  focus:     ["Computer Vision", "Machine Learning", "Full-Stack"],
+  focus:     ["Computer Vision", "Machine Learning"],
 };
 ```
 
@@ -201,5 +201,3 @@ const atherva = {
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:1a2332,100:0d1117&height=90&section=footer)
-
-Update the readme file with new stats
