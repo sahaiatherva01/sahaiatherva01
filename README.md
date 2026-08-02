@@ -73,7 +73,7 @@ const atherva = {
 | Category | Stack |
 |---|---|
 | **Languages** | Java, Python, JavaScript, HTML5, CSS3, SQL |
-| **Frameworks & Libraries** | React.js, Node.js, Flask, REST APIs |
+| **Frameworks & Libraries** | Flask, REST APIs |
 | **AI / ML** | PyTorch, TensorFlow, OpenCV, MediaPipe, Pandas, NumPy, Matplotlib |
 | **GenAI & LLMs** | Google Gemini API, Agentic AI, Multi-Agent Systems, Retrieval-Augmented Generation (RAG) |
 | **Tools** | Git, GitHub, VS Code |
