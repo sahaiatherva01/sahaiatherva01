@@ -133,41 +133,6 @@ const atherva = {
 
 ---
 
-## Leadership
-
-<table>
-<tr>
-<th align="left">Role</th>
-<th align="left">Organization</th>
-<th align="left">Details</th>
-</tr>
-<tr>
-<td valign="top"><b>President</b></td>
-<td valign="top">Bit By Bit Club, VIT Bhopal<br/><sub>March 2026 – Present</sub></td>
-<td valign="top">Lead club activities, organize technical events, and coordinate workshops and coding contests</td>
-</tr>
-<tr>
-<td valign="top"><b>Co-Lead</b><br/><sub>Event Management</sub></td>
-<td valign="top">UX Club, VIT Bhopal<br/><sub>July 2025 – Feb 2026</sub></td>
-<td valign="top">Coordinated technical events and managed event operations with the organizing team</td>
-</tr>
-</table>
-
----
-
-## Beyond the Code
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-Active-2b0a3d?style=for-the-badge&logo=leetcode&logoColor=ffa116)
-![HackerRank](https://img.shields.io/badge/HackerRank-Active-2b0a3d?style=for-the-badge&logo=hackerrank&logoColor=2ec866)
-![Hackathons](https://img.shields.io/badge/Hackathons-Multiple%20Participated-2b0a3d?style=for-the-badge&logo=devpost&logoColor=white)
-
-**Certifications:** Programming in Java · Python Essentials · Fundamentals of AI and ML
-
-</div>
-
----
 
 ## GitHub Stats
 
