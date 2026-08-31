@@ -81,58 +81,6 @@ const atherva = {
 
 ---
 
-## Featured Projects
-
-<details open>
-<summary><b>DriveSafe-AI</b> — <i>AI Driver Monitoring System, June 2026 – Present</i></summary>
-<br/>
-
-`Python` `Flask` `OpenCV` `MediaPipe` `TensorFlow` `Gemini API`
-
-- Real-time driver monitoring detecting drowsiness through eye closure, yawning, and head movement
-- Fatigue detection using Eye Aspect Ratio (EAR), Mouth Aspect Ratio (MAR), blink analysis, and temporal smoothing
-- Integrated the Gemini API to generate personalized driving safety recommendations based on detected behavior
-
-</details>
-
-<details>
-<summary><b>HomeGuardAI</b> — <i>AI-Powered Smart Surveillance System, May 2026 – Present</i></summary>
-<br/>
-
-`Python` `Flask` `OpenCV` `MediaPipe` `Gemini API`
-
-- Real-time home surveillance detecting people and monitoring activity patterns
-- Suspicious activity detection for prolonged presence, abnormal posture, and face concealment
-- Flask dashboard displaying live feeds, activity logs, occupancy stats, and Gemini-generated security insights
-
-</details>
-
-<details>
-<summary><b>Mudra Recognition Model</b> — <i>Research Paper (Manuscript in Preparation), July 2025 – Present</i></summary>
-<br/>
-
-`Python` `OpenCV` `MediaPipe` `NumPy`
-
-- Real-time hand gesture recognition system for Sattriya folk dance
-- Extracted 21 hand landmarks and engineered geometric features for mudra classification
-- Improved recognition performance through preprocessing and evaluation on a custom dataset
-
-</details>
-
-<details>
-<summary><b>Humanoid Robot Clone Tracker</b> — <i>Real-Time Pose Estimation, Nov 2025 – Feb 2026</i></summary>
-<br/>
-
-`Python` `OpenCV` `MediaPipe` `NumPy` `Matplotlib`
-
-- Real-time human pose tracking detecting and visualizing 33 body landmarks
-- Low-latency processing of live webcam input for interactive applications
-- Skeletal visualization and analysis using NumPy and Matplotlib
-
-</details>
-
----
-
 
 ## GitHub Stats
 
